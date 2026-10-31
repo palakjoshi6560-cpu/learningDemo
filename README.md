@@ -1,4 +1,4 @@
 # learningDemo
 trying to understand git
 
-Author- Palak Joshi
+Author- Palak (learning git)
